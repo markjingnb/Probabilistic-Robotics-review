@@ -2,7 +2,9 @@
 THRUN
 
 Bayes ﬁlter=GAUSSIAN FILTERS+NONPARAMETRIC FILTERS
+
 GAUSSIAN FILTERS=Kalman ﬁlter+extended Kalman ﬁlter+information ﬁlter+extended Information filter
+
 NONPARAMETRIC FILTERS=histogram ﬁlter+ particle ﬁlter 
 
 Q1=MOBILE ROBOT LOCALIZATION
